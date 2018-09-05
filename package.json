@@ -1,0 +1,14 @@
+{
+  "name": "Trackpostbot",
+  "authors": [
+    "daniel erez <daniellevanon@gmail.com>"
+  ],
+  "dependencies": {
+    "request": "*",
+    "csv-write-stream": "*",
+    "striptags": "*",
+    "async": "*",
+    "lodash": "*",
+    "node-emoji": "*"
+  }
+}
