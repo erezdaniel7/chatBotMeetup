@@ -1,7 +1,7 @@
 {
-  "name": "Trackpostbot",
+  "name": "chatbotMeetup",
   "authors": [
-    "daniel erez <daniellevanon@gmail.com>"
+    "daniel erez <erezdaniel7@gmail.com>"
   ],
   "dependencies": {
     "request": "*",
